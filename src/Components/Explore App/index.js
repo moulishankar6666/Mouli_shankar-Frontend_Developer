@@ -19,7 +19,7 @@ const ExploreOurApp = () => {
           Open dApp
         </button>
       </div>
-      <div className="w-full text-white flex justify-center items-center sm:justify-between">
+      <div className="w-full text-white flex justify-center items-center mt-5 sm:justify-between">
         <Footer />
         <div className="hidden flex-col  sm:flex sm:gap-5">
           <h1 className="text-md font-medium">
